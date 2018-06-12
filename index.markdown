@@ -12,7 +12,7 @@ title:  "ZectoZero's Blog"
 
 #### **StardewZem** 
 
-* [Korean](/stardewzem/main/ko)
+* [한국어](/stardewzem/main/ko)
 * [English](/stardewzem/main/en)
 * [Deutsch](/stardewzem/main/de)
 * [Español](/stardewzem/main/es)

@@ -8,7 +8,7 @@ permalink:  /stardewzem/image_weaver/image_weaver/de
 
 * Wendet den Inhalt des heruntergeladenen Bildmodus auf Stardew Valley an.
 
-1. Download-Modus
+1. Download-Mod
   * https://www.nexusmods.com/stardewvalley/
   * https://community.playstarbound.com/forums/mods.215/
   * http://cafe.naver.com/starvall
