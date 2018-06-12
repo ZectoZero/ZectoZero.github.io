@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 title:      "Java Snippets - Data Management"
 permalink:  /javasnippets/data_management
 ---

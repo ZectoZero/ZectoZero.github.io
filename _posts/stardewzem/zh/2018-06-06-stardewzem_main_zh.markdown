@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 title:      "StardewZem"
 permalink:  /stardewzem/main/zh
 ---

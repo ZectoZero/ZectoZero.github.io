@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 title:      "Java Snippets - Network"
 permalink:  /javasnippets/network
 ---
