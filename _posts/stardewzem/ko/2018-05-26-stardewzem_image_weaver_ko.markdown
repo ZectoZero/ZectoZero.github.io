@@ -9,9 +9,9 @@ permalink:  /stardewzem/image_weaver/image_weaver/ko
 * 다운로드한 이미지 모드의 내용을 Stardew Valley에 적용합니다.
 
 1. 모드 다운로드하기
-  * https://www.nexusmods.com/stardewvalley/
-  * https://community.playstarbound.com/forums/mods.215/
-  * http://cafe.naver.com/starvall
+  * [NexusMods](https://www.nexusmods.com/stardewvalley/){:target="_blank"}
+  * [Chucklefish Forum](https://community.playstarbound.com/forums/mods.215/){:target="_blank"}
+  * [Stardew Valley Korea Community](http://cafe.naver.com/starvall){:target="_blank"}
 
 2. 'xnb 파일 열기' 버튼을 클릭
 
