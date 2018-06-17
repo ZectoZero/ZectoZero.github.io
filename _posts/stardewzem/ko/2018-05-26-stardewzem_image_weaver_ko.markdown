@@ -4,16 +4,6 @@ title:      "이미지 병합"
 permalink:  /stardewzem/image_weaver/image_weaver/ko
 ---
 
-<script type="text/javascript"> 
-    var adfly_id = 19827261; 
-    var adfly_advert = 'banner'; 
-    var frequency_cap = 5; 
-    var frequency_delay = 5; 
-    var init_delay = 3; 
-    var popunder = false; 
-</script> 
-<script src="https://cdn.adf.ly/js/entry.js"></script>
-
 ### **이미지 병합**
 
 * 다운로드한 이미지 모드의 내용을 Stardew Valley에 적용합니다.
