@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     kindlet
 title:      "Ändere die Schwierigkeit beim Fischen"
 permalink:  /stardewzem/misc/fish_difficulty/de
 ---

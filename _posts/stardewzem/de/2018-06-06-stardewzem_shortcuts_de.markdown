@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     kindlet
 title:      "Abkürzung"
 permalink:  /stardewzem/misc/shortcuts/de
 ---

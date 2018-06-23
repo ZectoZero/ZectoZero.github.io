@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     kindlet
 title:      "язык"
 permalink:  /stardewzem/config/language/ru
 ---

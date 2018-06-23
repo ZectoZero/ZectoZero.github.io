@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     kindlet
 title:      "Mesclar imagens"
 permalink:  /stardewzem/image_weaver/image_weaver/pt
 ---

@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     kindlet
 title:      "이미지 병합"
 permalink:  /stardewzem/image_weaver/image_weaver/ko
 ---

@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     kindlet
 title:      "XNBExtractの場所を指定"
 permalink:  /stardewzem/config/xnb_extract_path/ja
 ---

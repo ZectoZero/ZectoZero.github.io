@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     kindlet
 title:      "はじめに言語"
 permalink:  /stardewzem/config/intro_n_language/ja
 ---

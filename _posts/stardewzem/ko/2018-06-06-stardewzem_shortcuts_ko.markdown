@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     kindlet
 title:      "바로가기"
 permalink:  /stardewzem/misc/shortcuts/ko
 ---

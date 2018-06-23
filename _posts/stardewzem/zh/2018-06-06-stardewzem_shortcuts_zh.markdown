@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     kindlet
 title:      "快捷键"
 permalink:  /stardewzem/misc/shortcuts/zh
 ---

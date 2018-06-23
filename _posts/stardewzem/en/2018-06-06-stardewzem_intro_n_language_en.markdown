@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     kindlet
 title:      "Introduction & Language"
 permalink:  /stardewzem/config/intro_n_language/en
 ---

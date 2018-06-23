@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     kindlet
 title:      "낚시 난이도 변경"
 permalink:  /stardewzem/misc/fish_difficulty/ko
 ---

@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     kindlet
 title:      "Fusionar imágenes"
 permalink:  /stardewzem/image_weaver/image_weaver/es
 ---

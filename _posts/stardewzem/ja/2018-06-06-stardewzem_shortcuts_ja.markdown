@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     kindlet
 title:      "ショートカット"
 permalink:  /stardewzem/misc/shortcuts/ja
 ---

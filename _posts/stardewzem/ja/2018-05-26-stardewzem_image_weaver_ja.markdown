@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     kindlet
 title:      "画像マージ"
 permalink:  /stardewzem/image_weaver/image_weaver/ja
 ---

@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     kindlet
 title:      "Объединить изображения"
 permalink:  /stardewzem/image_weaver/image_weaver/ru
 ---

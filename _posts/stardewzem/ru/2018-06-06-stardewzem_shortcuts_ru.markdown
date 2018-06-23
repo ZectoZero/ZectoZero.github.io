@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     kindlet
 title:      "Ярлыки"
 permalink:  /stardewzem/misc/shortcuts/ru
 ---

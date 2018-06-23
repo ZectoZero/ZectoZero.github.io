@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     kindlet
 title:      "Atalho"
 permalink:  /stardewzem/misc/shortcuts/pt
 ---

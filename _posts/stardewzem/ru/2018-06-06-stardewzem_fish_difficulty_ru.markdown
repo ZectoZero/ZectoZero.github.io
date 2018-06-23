@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     kindlet
 title:      "Измените трудности с промыслом"
 permalink:  /stardewzem/misc/fish_difficulty/ru
 ---

@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     kindlet
 title:      "Bilder zusammenführen"
 permalink:  /stardewzem/image_weaver/image_weaver/de
 ---

@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     kindlet
 title:      "Stardew Valleyゲームの場所"
 permalink:  /stardewzem/config/game_path/ja
 ---

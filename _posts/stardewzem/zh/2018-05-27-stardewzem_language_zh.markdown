@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     kindlet
 title:      "语言"
 permalink:  /stardewzem/config/language/zh
 ---
