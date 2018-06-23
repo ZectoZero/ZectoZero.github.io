@@ -19,7 +19,10 @@
 </div>
 <script>
 	var postDivElement = document.getElementById("postDiv");
-	function resizePostDiv() { postDivElement.style.width = window.innerWidth + "px"; }
+	function resizePostDiv() {
+		//postDivElement.style.width = (window.innerWidth * 0.95) + "px";
+		postDivElement.style.width = (Math.min(document.documentElement.clientWidth, window.innerWidth || 0) * 0.95) + "px";
+	}
 	window.addEventListener("resize", resizePostDiv, false);
 	resizePostDiv();
 </script>
