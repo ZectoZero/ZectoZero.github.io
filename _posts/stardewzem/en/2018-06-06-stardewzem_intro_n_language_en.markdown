@@ -12,7 +12,7 @@ It shows the main work order, the shortcuts according to the situation, the chec
 ---
 ### **Select language**
 
-* StardewZem, and the languages ​​currently supported are listed below.
+* StardewZem is available in the following languages:
   * Korean, English, German, Spanish, Russian, Portuguese, Japanese, Chinese
 
 <br/>

@@ -8,7 +8,7 @@ permalink:  /stardewzem/config/xnb_extract_path/de
 
 * XNBExtract wird benötigt, um Stardew Valley Dateien zu bearbeiten, andernfalls funktioniert StardewZem nicht.
 
-* Wenn Sie ein XNBExtract Programm verwendet haben, können Sie den Speicherort der Datei 'xnb_node.cmd' finden.
+* Wenn Sie ein XNBExtract Programm haben, das Sie benutzt haben, suchen Sie den Speicherort der Datei 'xnb_node.cmd'.
 
 <br/>
 <br/>
@@ -18,7 +18,7 @@ permalink:  /stardewzem/config/xnb_extract_path/de
 
 * XNBExtract Verteilen Sie nicht mit StardewZem, um das Copyright des Autors zu schützen.
 
-* Der Speicherort für die automatische Installation für XNBExtract ist der Ordner XNBExtract im Ordner StardewZem.
+* Der Speicherort für die unbeaufsichtigte Installation für XNBExtract ist der Ordner XNBExtract im Ordner StardewZem.
 
 <br/>
 <br/>

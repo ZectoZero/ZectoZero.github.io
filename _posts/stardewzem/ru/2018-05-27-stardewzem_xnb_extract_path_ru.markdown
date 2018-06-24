@@ -6,9 +6,9 @@ permalink:  /stardewzem/config/xnb_extract_path/ru
 
 ### **XNBExtract Укажите местоположение**
 
-* XNBExtract требуется для редактирования файлов Stardew Valley, иначе StardewZem не будет работать.
+* Для редактирования файлов Stardew Valley требуется XNBExtract, иначе StardewZem не будет работать.
 
-* Если вы используете программу XNBExtract, вы можете найти расположение файла xnb_node.cmd.
+* Если у вас есть программа XNBExtract, которую вы использовали, найдите местоположение файла «xnb_node.cmd».
 
 <br/>
 <br/>

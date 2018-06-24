@@ -8,18 +8,21 @@ permalink:  /stardewzem/image_weaver/image_weaver/de
 
 * Wendet den Inhalt des heruntergeladenen Bildmodus auf Stardew Valley an.
 
-1. Download-Mod
-  * https://www.nexusmods.com/stardewvalley/
-  * https://community.playstarbound.com/forums/mods.215/
-  * http://cafe.naver.com/starvall
+1. Mod Herunterladen
+  * [NexusMods](https://www.nexusmods.com/stardewvalley/){:target="_blank"}
+  * [Chucklefish Forum](https://community.playstarbound.com/forums/mods.215/){:target="_blank"}
+  * [Stardew Valley Korea Community](http://cafe.naver.com/starvall){:target="_blank"}
 
-2. Klicken Sie auf die Schaltfläche "Datei öffnen xnb"
+2. Klicken Sie auf die Schaltfläche "Öffnen"
 
 3. Wählen Sie heruntergeladene Dateien aus
 
-4. Geben Sie Bereiche an, die zusammengeführt werden sollen
+4. Ziehen Sie einen Bereich in das Bild, um es anzugeben
 
-5. Klicken Sie auf die Schaltfläche "Zusammenführen" und Sie sind fertig!
+5. Überprüfen Sie das Bild oben rechts, um die Dateien auszuwählen, die zusammengeführt werden sollen
+  * Dateien mit demselben Namen, aber unterschiedlicher Sprache werden automatisch ausgewählt.
+
+6. Klicken Sie auf die Schaltfläche "Bilder zusammenführen", um sie zusammenzuführen!
 
 <br/>
 <br/>
@@ -27,10 +30,10 @@ permalink:  /stardewzem/image_weaver/image_weaver/de
 ---
 #### **Referenz**
 
-* Suchen Sie die Datei Stardew Valley, um den Modus automatisch entsprechend dem Namen der Modusdatei anzuwenden.
-  * Wenn es sich um einen Dateinamen handelt, der nicht automatisch gefunden werden kann, können Sie ihn dem Dateinamen xnb im Spiel zuweisen, indem Sie auf die Schaltfläche 'Übernehmen xnb Datei umbenennen' klicken. 
+* Suchen Sie die Datei Stardew Valley, die die Modi automatisch gemäß dem Namen der Modusdatei zusammenführen soll.
+  * Wenn der Dateiname nicht automatisch gefunden wird, können Sie auf die Schaltfläche "Rename xnb Rename file" klicken, um den Dateinamen im Spiel als xnb anzugeben. 
 
-* Nur die Sprache mit dem gleichen Namen wird automatisch auf andere Dateien angewendet.
+* Die erste xnb Datei, die Sie bearbeiten, wird automatisch gesichert und erscheint im Bereich Source als <Backup>.
 
 <br/>
 <br/>

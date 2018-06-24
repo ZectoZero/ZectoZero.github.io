@@ -8,7 +8,7 @@ permalink:  /stardewzem/config/xnb_extract_path/en
 
 * XNBExtract is required to edit Stardew Valley files, otherwise StardewZem will not work.
 
-* If you have a XNBExtract program you used, you can find the location of the file 'xnb_node.cmd'.
+* If you have a XNBExtract program that you used, find the location of the file 'xnb_node.cmd'.
 
 <br/>
 <br/>
@@ -18,7 +18,7 @@ permalink:  /stardewzem/config/xnb_extract_path/en
 
 * XNBExtract Do not distribute with StardewZem to protect the author's copyright.
 
-* The silent install location for XNBExtract is the XNBExtract folder in the StardewZem folder.
+* The silent installation location for XNBExtract is the XNBExtract folder in the StardewZem folder.
 
 <br/>
 <br/>

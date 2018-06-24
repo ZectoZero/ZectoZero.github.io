@@ -6,7 +6,7 @@ permalink:  /stardewzem/config/language/zh
 
 ### **选择语言**
 
-* 以下语言提供StardewZem：
+* 可以用以下语言选择StardewZem。
   * 韩文，英文，德文，西班牙文，俄文，葡萄牙文，日文，中文
 
 <br/>

@@ -12,7 +12,7 @@ Muestra el orden de trabajo principal, los atajos según la situación, la lista
 ---
 ### **Seleccionar idioma**
 
-* StardewZem, y los idiomas admitidos actualmente se enumeran a continuación.
+* StardewZem está disponible en los siguientes idiomas:
   * Coreano, inglés, alemán, español, ruso, portugués, japonés y chino
 
 <br/>

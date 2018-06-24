@@ -6,7 +6,7 @@ permalink:  /stardewzem/config/language/pt
 
 ### **Selecione o idioma**
 
-* StardewZem está disponível nos seguintes idiomas:
+* StardewZem pode ser selecionado nos seguintes idiomas.
   * Coreano, inglês, alemão, espanhol, russo, português, japonês, chinês
 
 <br/>

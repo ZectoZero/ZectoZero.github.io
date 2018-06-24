@@ -8,18 +8,21 @@ permalink:  /stardewzem/image_weaver/image_weaver/es
 
 * Aplica los contenidos del modo de imagen descargado a Stardew Valley.
 
-1. Modo de descarga
-  * https://www.nexusmods.com/stardewvalley/
-  * https://community.playstarbound.com/forums/mods.215/
-  * http://cafe.naver.com/starvall
+1. Mod Descargar
+  * [NexusMods](https://www.nexusmods.com/stardewvalley/){:target="_blank"}
+  * [Chucklefish Forum](https://community.playstarbound.com/forums/mods.215/){:target="_blank"}
+  * [Stardew Valley Korea Community](http://cafe.naver.com/starvall){:target="_blank"}
 
-2. Haga clic en el botón "Abrir archivo xnb"
+2. Haga clic en el botón "Abrir"
 
 3. Seleccionar archivos descargados
 
-4. Especificar ámbitos para fusionar
+4. Arrastre un rango en la imagen para especificarlo
 
-5. Haga clic en el botón 'Fusionar' y ¡listo!
+5. Compruebe la imagen en la parte superior derecha para seleccionar los archivos que se fusionarán
+  * Los archivos con el mismo nombre pero diferente idioma se seleccionan automáticamente.
+
+6. Haga clic en el botón "Combinar imágenes" para fusionarlos.
 
 <br/>
 <br/>
@@ -27,10 +30,10 @@ permalink:  /stardewzem/image_weaver/image_weaver/es
 ---
 #### **Referencia**
 
-* Ubique el archivo Stardew Valley para aplicar automáticamente el modo de acuerdo con el nombre del archivo de modo.
-  * Si se trata de un nombre de archivo que no se puede encontrar automáticamente, puede asignarlo al xnb nombre de archivo en el juego presionando el botón 'Aplicar xnb Renombrar archivo'. 
+* Ubique el archivo Stardew Valley que desea fusionar modos automáticamente de acuerdo con el nombre del archivo de modo.
+  * Si el nombre del archivo no se encuentra automáticamente, puede hacer clic en el botón "Cambiar nombre xnb Cambiar nombre del archivo" para especificar el nombre del archivo en el juego como xnb. 
 
-* Solo el idioma con el mismo nombre se aplica automáticamente a otros archivos.
+* El primer archivo xnb que edite se respaldará automáticamente y aparecerá como <Copia de seguridad> en la sección Source.
 
 <br/>
 <br/>

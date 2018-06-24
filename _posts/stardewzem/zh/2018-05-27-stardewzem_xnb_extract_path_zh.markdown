@@ -8,7 +8,7 @@ permalink:  /stardewzem/config/xnb_extract_path/zh
 
 * 编辑Stardew Valley文件需要XNBExtract，否则StardewZem将不起作用。
 
-* 如果您使用了XNBExtract程序，则可以找到文件'xnb_node.cmd'的位置。
+* 如果您使用的是XNBExtract程序，请找到文件'xnb_node.cmd'的位置。
 
 <br/>
 <br/>
@@ -18,7 +18,7 @@ permalink:  /stardewzem/config/xnb_extract_path/zh
 
 * XNBExtract请勿以StardewZem分发以保护作者的版权。
 
-* XNBExtract的无提示安装位置是StardewZem文件夹中的XNBExtract文件夹。
+* XNBExtract的静默安装位置是StardewZem文件夹中的XNBExtract文件夹。
 
 <br/>
 <br/>
